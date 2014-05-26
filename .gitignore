@@ -1,3 +1,11 @@
+################
+## UNITY PROJECT FILES AND LIBRARY
+################
+
+ProjectSettings/
+Library/
+
+
 #################
 ## Eclipse
 #################
